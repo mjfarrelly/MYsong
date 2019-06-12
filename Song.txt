@@ -1,0 +1,5 @@
+jump once
+clap twice
+right 2 times 
+right 3 times
+scream
